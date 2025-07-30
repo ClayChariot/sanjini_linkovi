@@ -1,0 +1,40 @@
+body {
+  background-image: url("zeleni-venac.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+  background-color: black;
+  
+}
+
+
+
+a {
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 250px;
+    border-radius: 5px;
+    color: white;
+    border-style: solid 2px white;
+    
+}
+
+a:link {
+  color: white;
+}
+
+
+
+
+a:hover {
+  color: yellow;
+}
+
+
